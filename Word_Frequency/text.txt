@@ -1,0 +1,3 @@
+C++ programming language is fast efficient and powerful.
+Learning file handling in C++ empowers developers to build data persistent applications.
+Algorithm design and data structures are essential for problem solving.

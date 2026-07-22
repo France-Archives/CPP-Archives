@@ -1,0 +1,3 @@
+1001 JohnDoe 500.50 1234
+1002 JaneSmith 1250.75 5678
+1003 RobertJohnson 2300.00 4321
